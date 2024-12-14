@@ -3,9 +3,9 @@
   <img src="https://i.postimg.cc/CL6G0ppw/Flux1-AI-2024-12-13.png" alt="Descripción" style="width: 100%; max-width: 600px; border-radius: 10px;">
 
 
-<div align="center" style="padding: 10px">
-  <h1>¡Hola! 👋 Soy RONAL ALVARADO</h1>
-  <h3>Ingeniero de Sistemas y Desarrollador Full-Stack con 9 años de experiencia</h3>
+<div align="left" style="padding: 10px">
+  <h2>¡Hola! 👋 Soy RONAL ALVARADO</h2>
+  <h3>Ingeniero de Sistemas y Desarrollador Full-Stack con 9 años de experiencia.</h3>
   <p>
     Me adapto y especializo tanto en el desarrollo del <b>back-end</b> como en el <b>front-end</b>, 
     creando soluciones tecnológicas eficientes, escalables e innovadoras. 🌟 Desde <b>Trujillo, Perú</b> 🇵🇪, 
@@ -13,108 +13,6 @@
   </p>
   <p><b>💻 Pasión por la tecnología, enfoque en la calidad, y compromiso con la innovación. 💡</b></p>
 </div>
-
----
-
-<div align="center">
-  <h2>🛠️ Tecnologías y Herramientas</h2>
-
-<!-- Lenguajes de Programación -->
-<div style="border: 2px solid #E34F26; border-radius: 10px; padding: 10px; margin-bottom: 20px;">
-  <h3>📄 Lenguajes de Programación</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  </p>
-</div>
-
-<!-- Frameworks y Bibliotecas -->
-<div style="border: 2px solid #7952B3; border-radius: 10px; padding: 10px; margin-bottom: 20px;">
-  <h3>🧩 Frameworks y Bibliotecas</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
-    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  </p>
-</div>
-
-<!-- Bases de Datos -->
-<div style="border: 2px solid #4479A1; border-radius: 10px; padding: 10px; margin-bottom: 20px;">
-  <h3>💾 Bases de Datos</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-  </p>
-</div>
-
-<!-- Inteligencia Artificial -->
-<div style="border: 2px solid #FF6F00; border-radius: 10px; padding: 10px; margin-bottom: 20px;">
-  <h3>🤖 Inteligencia Artificial</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Hugging%20Face-FF8C00?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
-    <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebooks">
-    <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab">
-    <img src="https://img.shields.io/badge/-Azure%20AI-0078D7?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI">
-  </p>
-</div>
-
-<!-- Algoritmos y Graficación -->
-<div style="border: 2px solid #3F4F75; border-radius: 10px; padding: 10px; margin-bottom: 20px;">
-  <h3>📊 Algoritmos y Graficación</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Matplotlib-005F9E?style=flat-square&logo=python&logoColor=white" alt="Matplotlib">
-    <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn">
-    <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
-  </p>
-</div>
-
-<!-- Sistemas Operativos -->
-<div style="border: 2px solid #FCC624; border-radius: 10px; padding: 10px; margin-bottom: 20px;">
-  <h3>💻 Sistemas Operativos</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-    <img src="https://img.shields.io/badge/-RedHat-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RedHat">
-    <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  </p>
-</div>
-
-<!-- Herramientas de Desarrollo -->
-<div style="border: 2px solid #181717; border-radius: 10px; padding: 10px; margin-bottom: 20px;">
-  <h3>⚙️ Herramientas de Desarrollo</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/-GitHub%20Desktop-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Desktop">
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-  </p>
-</div>
-
-<!-- Diseño Gráfico y Modelado 3D -->
-<div style="border: 2px solid #31A8FF; border-radius: 10px; padding: 10px; margin-bottom: 20px;">
-  <h3>🎨 Diseño Gráfico y Modelado 3D</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop">
-    <img src="https://img.shields.io/badge/-Blender-FF6D00?style=flat-square&logo=blender&logoColor=white" alt="Blender">
-    <img src="https://img.shields.io/badge/-SketchUp-005F9E?style=flat-square&logoColor=white" alt="SketchUp">
-  </p>
-</div>
-
-
-</div>
-
----
-
-<div align="center">
-  <h2>📈 Estadísticas de GitHub</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Alvarado321&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-</div>
-
----
 
 <div align="center">
   <h2>🌐 Conéctate conmigo</h2>
@@ -133,39 +31,110 @@
 
 ---
 
+<div align="left">
+  <h2>🛠️ Tecnologías y Herramientas</h2>
+  <p>Todo lo que visualizas aquí es lo que he llegado a utilizar en lo largo de este tiempo de mi desarrollo como ingeniero:</p>
+ <p>
+    <!-- Lenguajes de programación y herramientas para desarrollo -->
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+    <img src="https://img.shields.io/badge/-Greenfoot-007ACC?style=flat-square&logoColor=white" alt="Greenfoot">
+    <img src="https://img.shields.io/badge/-RedHat-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RedHat">
+    <img src="https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer">
+    <img src="https://img.shields.io/badge/-Dia-0000FF?style=flat-square&logoColor=white" alt="Dia">
+    <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" alt="NetBeans">
+    <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda">
+    <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/-GitHub%20Desktop-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Desktop">
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap Studio">
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio">
+    <img src="https://img.shields.io/badge/-MobaXterm-0066A1?style=flat-square&logoColor=white" alt="MobaXterm">
+    <img src="https://img.shields.io/badge/-Termius-11A0D8?style=flat-square&logo=termius&logoColor=white" alt="Termius">
+    <img src="https://img.shields.io/badge/-Git%20Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Git Bash">
+    <!-- Lenguajes de programación y frameworks -->
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+    <img src="https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer">
+    <!-- Frameworks y bibliotecas de IA -->
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/-Matplotlib-005F9E?style=flat-square&logo=python&logoColor=white" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+    <img src="https://img.shields.io/badge/-Hugging%20Face-FF8C00?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
+    <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebooks">
+    <!-- Algoritmos y graficación -->
+    <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+    <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn">
+    <img src="https://img.shields.io/badge/-Blender-FF6D00?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+    <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+    <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal Engine">
+    <img src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js">
+    <!-- Herramientas relacionadas con IA -->
+    <img src="https://img.shields.io/badge/-DeepL-0F2A6A?style=flat-square&logo=deepl&logoColor=white" alt="DeepL">
+    <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab">
+    <img src="https://img.shields.io/badge/-Azure%20AI-0078D7?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI">
+    <img src="https://img.shields.io/badge/-AWS%20AI-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS AI">
+    <img src="https://img.shields.io/badge/-IBM%20Watson-052FAD?style=flat-square&logo=ibmwatson&logoColor=white" alt="IBM Watson">
+    <!-- Sistemas operativos -->
+    <img src="https://img.shields.io/badge/-RedHat-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RedHat">
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
+    <!-- Otros relacionados -->
+    <img src="https://img.shields.io/badge/-Dia-0000FF?style=flat-square&logoColor=white" alt="Dia">
+    <img src="https://img.shields.io/badge/-Greenfoot-007ACC?style=flat-square&logoColor=white" alt="Greenfoot">
+    <!-- Diseño gráfico y modelado 3D -->
+    <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+    <img src="https://img.shields.io/badge/-Blender-FF6D00?style=flat-square&logo=blender&logoColor=white" alt="Blender">
+    <img src="https://img.shields.io/badge/-Blockbench-4A90E2?style=flat-square&logoColor=white" alt="Blockbench">
+    <img src="https://img.shields.io/badge/-SketchUp-005F9E?style=flat-square&logoColor=white" alt="SketchUp">
+    <img src="https://img.shields.io/badge/-AutoCAD-F26B00?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD">
+    <!-- Productividad y herramientas diversas -->
+    <img src="https://img.shields.io/badge/-Balsamiq%20Wireframes-F36F21?style=flat-square&logoColor=white" alt="Balsamiq Wireframes">
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox">
+    <img src="https://img.shields.io/badge/-WinSCP-008000?style=flat-square&logo=windows&logoColor=white" alt="WinSCP">
+    <img src="https://img.shields.io/badge/-Streamlabs-2EAD7C?style=flat-square&logo=streamlabs&logoColor=white" alt="Streamlabs Desktop">
+    <img src="https://img.shields.io/badge/-Lumion-00B3F7?style=flat-square&logoColor=white" alt="Lumion">
+    <img src="https://img.shields.io/badge/-StarUML-2C3E50?style=flat-square&logoColor=white" alt="StarUML">
+</p>
+
+</div>
+
+---
+
+<div align="center">
+  <h2>📈 Estadísticas de GitHub y Lenguajes más utilizados</h2>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <!-- Estadísticas de GitHub -->
+    <img src="https://github-readme-stats-git-master-alvarado321s-projects.vercel.app/api?username=Alvarado321&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)" alt="Estadísticas de GitHub" style="width: 400px; height: auto;">
+    <!-- Lenguajes más utilizados -->
+    <img src="https://github-readme-stats-git-master-alvarado321s-projects.vercel.app/api/top-langs/?username=Alvarado321&langs_count=20&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)" alt="Lenguajes más utilizados" style="width: 400px; height: auto;">
+  </div>
+</div>
+
+---
+
 <div align="center">
   <h2>🏆 Logros</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Alvarado321&theme=radical" alt="Logros">
-</div>
-
----
-
-<div align="center">
-  <h2>📊 Lenguajes más utilizados</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarado321&layout=compact&theme=radical" alt="Lenguajes más utilizados">
-</div>
-
----
-
-<div align="center">
-  <h2>🖼️ Proyectos Destacados</h2>
-  <p><b>Nombre del Proyecto 1:</b> Breve descripción del proyecto.</p>
-  <p><b>Nombre del Proyecto 2:</b> Breve descripción del proyecto.</p>
-</div>
-
----
-
-<div align="center">
-  <h2>✍️ Últimos Blogs</h2>
-  <p><b>Título del Blog 1:</b> Resumen del blog.</p>
-  <p><b>Título del Blog 2:</b> Resumen del blog.</p>
-</div>
-
----
-
-<div align="center">
-  <h2>🎮 Hobbies</h2>
-  <p>Gaming 🎮 | Lectura 📚 | Viajes ✈️</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alvarado321&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)" alt="Logros">
 </div>
 
 ---
