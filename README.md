@@ -17,16 +17,22 @@
 <div align="center">
   <h2>🌐 Conéctate conmigo</h2>
   <p>
-    <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+    <a href="https://www.linkedin.com/in/ronal-antony-alvarado-vega-70a89030a/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://twitter.com/tu_usuario" target="_blank">
+    <a href="https://x.com/shycor25" target="_blank">
       <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
     </a>
-    <a href="mailto:tu_correo@gmail.com" target="_blank">
+    <a href="mailto:alvarado_aries_20@hotmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Correo-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Correo">
     </a>
   </p>
+  
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alvarado321&label=Visitas%20al%20perfil&color=brightgreen&style=for-the-badge" alt="Contador de Visitas al Perfil" />
+</p>
+
+
 </div>
 
 ---
@@ -126,7 +132,7 @@
     <!-- Estadísticas de GitHub -->
     <img src="https://github-readme-stats-git-master-alvarado321s-projects.vercel.app/api?username=Alvarado321&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)" alt="Estadísticas de GitHub" style="width: 400px; height: auto;">
     <!-- Lenguajes más utilizados -->
-    <img src="https://github-readme-stats-git-master-alvarado321s-projects.vercel.app/api/top-langs/?username=Alvarado321&langs_count=20&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)" alt="Lenguajes más utilizados" style="width: 400px; height: auto;">
+    <img src="https://github-readme-stats-git-master-alvarado321s-projects.vercel.app/api/top-langs/?username=Alvarado321&langs_count=20&layout=compact&theme=dark" alt="Lenguajes más utilizados" style="width: 400px; height: auto;">
   </div>
 </div>
 
