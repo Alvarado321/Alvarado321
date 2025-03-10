@@ -1,6 +1,6 @@
 <div align="left" style="padding: 10px">
   <h2>¡Hola! 👋 Soy RONAL ALVARADO</h2>
-  <h3>Ingeniero de Sistemas y Desarrollador Full-Stack con 9 años de experiencia.</h3>
+  <h3>Ingeniero de Sistemas, Software con IA y Desarrollador Full-Stack con 9 años de experiencia.</h3>
   <p>
     Me adapto y especializo tanto en el desarrollo del <b>back-end</b> como en el <b>front-end</b>, 
     creando soluciones tecnológicas eficientes, escalables e innovadoras. 🌟 Desde <b>Trujillo, Perú</b> 🇵🇪, 
