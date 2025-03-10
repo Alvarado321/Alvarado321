@@ -1,8 +1,3 @@
-
-<div align="center" style="border: 2px solid #FFFFFF1C; border-radius: 10px; padding: 10px; width: 80%; margin: 20px auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://i.postimg.cc/CL6G0ppw/Flux1-AI-2024-12-13.png" alt="Descripción" style="width: 100%; max-width: 600px; border-radius: 10px;">
-
-
 <div align="left" style="padding: 10px">
   <h2>¡Hola! 👋 Soy RONAL ALVARADO</h2>
   <h3>Ingeniero de Sistemas y Desarrollador Full-Stack con 9 años de experiencia.</h3>
